@@ -50,6 +50,8 @@ Thanks to 🤗 Huggingface for providing the transformer models that power the a
 NLTK's VADER for rule-based sentiment analysis tools.
 Amazon Review Dataset for providing the reviews data used in this analysis.
 
+Dataset : 
+https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input
 Author
 Sercan1111
 
